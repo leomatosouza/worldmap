@@ -49,24 +49,24 @@
   },
   
   {
-    "key": "SW-POP8_Independencia_4800G",
-    "name": "POP8-IDEPENDENCIA",
-    "latitude": -23.698560,
-    "longitude":-46.581210
+    "key": "AP-PQ_GIONANI_BREDA",
+    "name": "AP-PQ_GIONANI_BREDA",
+    "latitude": -23.724511,
+    "longitude":-46.574404
   },
   
   {
-    "key": "SW-POP9_Ferrazopolis_4800G",
-    "name": "POP9-FERRAZOPOLIS",
-    "latitude": -23.722956,
-    "longitude":-46.538805
+    "key": "AP-PQ_JUVENTUDE-01",
+    "name": "AP-PQ_JUVENTUDE-01",
+    "latitude": -23.696554,
+    "longitude": -46.549882
   },
   
   {
-    "key": "SW-POP10_Alvarenga_4800G",
-    "name": "POP10-ALVARENGA",
-    "latitude": -23.734060,
-    "longitude":-46.578018
+    "key": "AP-PQ_JUVENTUDE-02",
+    "name": "AP-PQ_JUVENTUDE-02",
+    "latitude": -23.695425,
+    "longitude":-46.549924
   },
   
   {
