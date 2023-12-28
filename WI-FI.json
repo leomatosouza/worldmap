@@ -1,0 +1,162 @@
+[
+  {
+    "key": "AP-PQ_RAPHAEL_LAZZURI_01",
+    "name": "AP-PQ_RAPHAEL_LAZZURI_01",
+    "latitude": -23.679984143390286,
+    "longitude":-46.55849778806347
+  },
+  
+  {
+    "key": "AP-PQ_RAPHAEL_LAZZURI_02",
+    "name": "AP-PQ_RAPHAEL_LAZZURI_02",
+    "latitude": -23.679984143390286,
+    "longitude":-46.55849778806347
+  },
+  
+  {
+    "key": "SW-POP3_Core7500_Educ",
+    "name": "POP3-EDUCACAO",
+    "latitude": -23.702475,
+    "longitude":-46.546967
+  },
+  
+  {
+    "key": "SW-POP4_Mussolini_4800G",
+    "name": "POP4-MUSSOLINI",
+    "latitude": -23.666475,
+    "longitude":-46.567854
+  },
+  
+  {
+    "key": "SW-POP5_Rudge_4800G",
+    "name": "POP5-RUDGE",
+    "latitude": -23.653185,
+    "longitude":-46.570999
+  },
+  
+  {
+    "key": "SW-POP6_Marchi_4800G",
+    "name": "POP6-MARCHI",
+    "latitude": -23.721302,
+    "longitude":-46.561171
+  },
+  
+  {
+    "key": "SW-POP7_Assuncao_4800G",
+    "name": "POP7-ASSUNCAO",
+    "latitude": -23.720881,
+    "longitude":-46.578926
+  },
+  
+  {
+    "key": "SW-POP8_Independencia_4800G",
+    "name": "POP8-IDEPENDENCIA",
+    "latitude": -23.698560,
+    "longitude":-46.581210
+  },
+  
+  {
+    "key": "SW-POP9_Ferrazopolis_4800G",
+    "name": "POP9-FERRAZOPOLIS",
+    "latitude": -23.722956,
+    "longitude":-46.538805
+  },
+  
+  {
+    "key": "SW-POP10_Alvarenga_4800G",
+    "name": "POP10-ALVARENGA",
+    "latitude": -23.734060,
+    "longitude":-46.578018
+  },
+  
+  {
+    "key": "SW-POP11_DEMARCHI_4800G",
+    "name": "POP11-DEMARCHI",
+    "latitude": -23.739893,
+    "longitude":-46.555924
+  },
+  
+  {
+    "key": "SW-POP12_PAULICEIA_4800G",
+    "name": "POP12-PAULICEIA",
+    "latitude": -23.666000,
+    "longitude":-46.592541
+  },
+  
+  {
+    "key": "SW-POP13_Riacho_4800G",
+    "name": "POP13-RIACHO",
+    "latitude": -23.777789,
+    "longitude":-46.530441
+  },
+  
+  {
+    "key": "SW-POP14_BATISTINI_4800G",
+    "name": "POP14-BATISTINI",
+    "latitude": -23.770466,
+    "longitude":-46.589952
+  },
+  
+    {
+    "key": "SW-UPA_ALVES_DIAS_5500",
+    "name": "UPA_ALVES_DIAS",
+    "latitude": -23.72444388390146,
+    "longitude":-46.5769700815005
+  },
+
+  {
+    "key": "SW-UPA_BAETA_NEVES_4500",
+    "name": "UPA_BAETA_NEVES",
+    "latitude": -23.69989498135903,
+    "longitude":-46.54386174879923
+  },
+  
+  {
+    "key": "SW-UPA_DEMARCHI_5500",
+    "name": "UPA_DEMARCHI",
+    "latitude": -23.744587587638772,
+    "longitude":-46.564220201287334
+  },
+
+  {
+    "key": "SW-UPA_RIACHO_5500",
+    "name": "UPA_RIACHO",
+    "latitude": -23.781874859172067,
+    "longitude":-46.52973202510027
+  },
+  
+  {
+    "key": "SW-UPA_RUDGE_RAMOS_5500",
+    "name": "UPA_RUDGE_RAMOS",
+    "latitude": -23.655113145932543,
+    "longitude":-46.57382429206332
+  },
+
+  {
+    "key": "SW-UPA_SAO_PEDRO_5500",
+    "name": "UPA_SAO_PEDRO",
+    "latitude": -23.717971550953536,
+    "longitude":-46.526659134390655
+  },
+
+  {
+    "key": "SW-UPA_SILVINA_3600",
+    "name": "UPA_SILVINA",
+    "latitude": -23.726994513863207,
+    "longitude":-46.548192151580764
+  },
+
+  {
+    "key": "SW-UPA_UNIAO_5500",
+    "name": "UPA_UNIAO",
+    "latitude": -23.74058128231711,
+    "longitude":-46.59767693438995
+  },
+
+  {  
+    "key": "SW-UPA_PAULICEIA_TABOAO_5500",
+    "name": "UPA_PAULICEIA_TABOAO",
+    "latitude": -23.670696485830778,
+    "longitude":-46.582950773525496
+  }
+]
